@@ -36,7 +36,8 @@ public class LaunchBrowser {
 		WebElement btn = driver.findElement(By.xpath("//label[@id='loginbutton']"));
 		btn.click();
 		
-		
+		System.out.println("launch try");
+		System.out.println("Mine");
 		
 		
 		
