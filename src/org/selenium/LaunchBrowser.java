@@ -38,6 +38,8 @@ public class LaunchBrowser {
 		
 		System.out.println("launch try");
 		System.out.println("Mine");
+		System.out.println("Dec");
+		
 		
 		
 		
